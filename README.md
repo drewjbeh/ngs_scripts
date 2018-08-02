@@ -6,5 +6,7 @@ Scripts are commented and (should) include a main comment to describe function a
 
 ## Contact
 Author: Drew Behrens
+
 Email: abehrens@biochem.mpg.de or drewjbeh@gmail.com
+
 Max Planck Institute for Biochemistry, Munich
